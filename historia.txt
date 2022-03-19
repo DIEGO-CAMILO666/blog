@@ -2,3 +2,5 @@ vacio
 
 tengo 32 años
 me parece muy interesante este curso
+
+hoy es el platzi-day
